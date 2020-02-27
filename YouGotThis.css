@@ -1,0 +1,61 @@
+/* CSS Link Check */
+
+/* h1 {
+    color: red;
+} */
+
+html {
+    border: 20px solid blue;
+}
+
+body {
+    display: grid;
+    grid-template-columns: ;
+    grid-template-rows: ;
+    background-image: image();
+}
+
+nav {
+    border: 2px solid black;
+    border-top: none;
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+    /* grid-column: ;
+    grid-row: ; */
+}
+
+footer {
+    border: 2px solid black;
+    border-bottom: none;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 175px;
+    margin-right: 175px;
+    /* grid-column: ;
+    grid-row: ; */
+}
+
+.PicCaption {
+    border: 2px dashed red;
+    text-align: left;
+    margin-left: 150px;
+    margin-right: 150px;
+    float: right;
+    /* grid-column: ;
+    grid-row: ; */
+}
+
+#MyPicture {
+    text-align: left;
+    margin-left: 25px;
+}
+
+section {
+    margin-top: 100px;
+    text-align: center;
+    padding: 25px 25px 25px 25px;
+    /* grid-column: ;
+    grid-row: ; */
+}
